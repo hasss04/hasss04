@@ -18,12 +18,6 @@
 
 CS Undergraduate (AI & ML) passionate about building scalable systems and AI-powered applications. I optimize production APIs, integrate ML models into real-world products, and deploy full-stack web applications for startups and small businesses.
 
-- **Backend Engineering:** Python (FastAPI, Flask, Django) & Node.js – built RESTful APIs, reduced latency by 20-25%
-- **AI/ML:** Reinforcement Learning (Thompson Sampling, MAB), PyTorch, TensorFlow, Scikit-learn – built recommendation engines & medical chatbots
-- **Full-Stack:** React, Next.js, PostgreSQL, MongoDB, Firebase, Redis – shipping features at Smallfare Services & Debt & Dominion
-- **Production Deployments:** Deployed and maintained production websites for small companies – managed AWS/cloud infrastructure, CI/CD pipelines, and performance optimization
-- **Cloud & DevOps:** Docker, AWS, GitHub Actions, Kafka, Debezium – deployed production systems with CI/CD pipelines
-
 ### 🛠️ Tech Stack
 
 <div align="center">
