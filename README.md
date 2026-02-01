@@ -81,23 +81,6 @@ CS Undergraduate (AI & ML) passionate about building scalable systems and AI-pow
 
 </div>
 
----
-
-### 💼 Professional Experience
-
-**🚀 Production Website Deployments**
-- Deployed and maintained full-stack web applications for small companies and startups
-- Managed cloud infrastructure on AWS (EC2, S3, RDS) with automated CI/CD pipelines
-- Optimized website performance, SEO, and security for production environments
-- Handled domain configuration, SSL certificates, and server management
-
-**🏢 Smallfare Services & Debt & Dominion**
-- Built scalable backend APIs and frontend features
-- Integrated AI/ML models and real-time data processing
-- Shipped production-ready features with React, Next.js, and modern tech stack
-
----
-
 Currently working on digital forensics, healthcare tech, and continuous learning in distributed systems.
 
 Thanks for stopping by! 🚀
