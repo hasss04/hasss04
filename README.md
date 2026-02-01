@@ -102,37 +102,10 @@ Currently working on digital forensics, healthcare tech, and continuous learning
 
 Thanks for stopping by! 🚀
 
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasss04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasss04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasss04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=hasss04&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 <div align="center">
 
 📧 [hassan_a22@outlook.com](mailto:hassan_a22@outlook.com) | 💼 [LinkedIn](https://linkedin.com/in/hassan290904) | 🌐 [GitHub](https://github.com/hasss04)
 
-**⭐ Star my repositories if you find my work interesting!**
+
 
 </div>
