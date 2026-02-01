@@ -11,15 +11,17 @@
   <a href="https://github.com/hasss04">
     <img src="https://img.shields.io/github/followers/hasss04?label=Follow&style=social"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=hasss04&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
-CS Undergraduate (AI & ML) passionate about building scalable systems and AI-powered applications. I optimize production APIs and integrate ML models into real-world products.
+CS Undergraduate (AI & ML) passionate about building scalable systems and AI-powered applications. I optimize production APIs, integrate ML models into real-world products, and deploy full-stack web applications for startups and small businesses.
 
 - **Backend Engineering:** Python (FastAPI, Flask, Django) & Node.js – built RESTful APIs, reduced latency by 20-25%
 - **AI/ML:** Reinforcement Learning (Thompson Sampling, MAB), PyTorch, TensorFlow, Scikit-learn – built recommendation engines & medical chatbots
 - **Full-Stack:** React, Next.js, PostgreSQL, MongoDB, Firebase, Redis – shipping features at Smallfare Services & Debt & Dominion
+- **Production Deployments:** Deployed and maintained production websites for small companies – managed AWS/cloud infrastructure, CI/CD pipelines, and performance optimization
 - **Cloud & DevOps:** Docker, AWS, GitHub Actions, Kafka, Debezium – deployed production systems with CI/CD pipelines
 
 ### 🛠️ Tech Stack
@@ -37,6 +39,8 @@ CS Undergraduate (AI & ML) passionate about building scalable systems and AI-pow
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -50,6 +54,7 @@ CS Undergraduate (AI & ML) passionate about building scalable systems and AI-pow
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -57,6 +62,7 @@ CS Undergraduate (AI & ML) passionate about building scalable systems and AI-pow
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 #### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,8 +70,33 @@ CS Undergraduate (AI & ML) passionate about building scalable systems and AI-pow
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+---
+
+### 💼 Professional Experience
+
+**🚀 Production Website Deployments**
+- Deployed and maintained full-stack web applications for small companies and startups
+- Managed cloud infrastructure on AWS (EC2, S3, RDS) with automated CI/CD pipelines
+- Optimized website performance, SEO, and security for production environments
+- Handled domain configuration, SSL certificates, and server management
+
+**🏢 Smallfare Services & Debt & Dominion**
+- Built scalable backend APIs and frontend features
+- Integrated AI/ML models and real-time data processing
+- Shipped production-ready features with React, Next.js, and modern tech stack
+
+---
 
 Currently working on digital forensics, healthcare tech, and continuous learning in distributed systems.
 
@@ -74,3 +105,19 @@ Thanks for stopping by! 🚀
 ---
 
 📧 [hassan_a22@outlook.com](mailto:hassan_a22@outlook.com) | 💼 [LinkedIn](https://linkedin.com/in/hassan290904)
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=hasss04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasss04&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasss04&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=hasss04&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+</div>
