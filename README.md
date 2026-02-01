@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
   <h1>👋 Hi, I'm Hassan</h1>
   <p><strong>Full-Stack Developer | AI/ML Engineer</strong></p>
   
@@ -48,3 +48,4 @@
 <div align="center">
   <i>"Building the future, one commit at a time."</i>
 </div>
+**
