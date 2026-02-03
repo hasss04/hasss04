@@ -81,7 +81,7 @@ Thanks for stopping by! 🚀
 
 <div align="center">
 
-📧 [hassan_a22@outlook.com](mailto:hassan_a22@outlook.com) | 💼 [LinkedIn](https://linkedin.com/in/hassan290904) | 🌐 [GitHub](https://github.com/hasss04)
+📧 [mail me!](mailto:hassan_a22@outlook.com) | 💼 [LinkedIn](https://linkedin.com/in/hassan290904) | 🌐 [GitHub](https://github.com/hasss04)
 
 
 
